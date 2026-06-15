@@ -6,7 +6,7 @@
 | |  | | | |/ __/ _ \/ __|
 | |__| |_| | (_| (_) \__ \
 |____|\___/ \___\___/|___/
-      Lucas Zivan
+    Lucas Zivan
 ```
 
 **Fullstack & DevOps Engineer · Freelance · EPITA GITM ING2**
@@ -74,16 +74,6 @@ I build end-to-end web products — from API design to CI/CD deployment — with
 |---------|-------------|-------|
 | **TinyX / Epitweet** | Distributed Twitter microservices architecture | Java · Quarkus · MongoDB · ElasticSearch · Neo4j · Kubernetes |
 | **ELS Cloud Migration** | SAE to Cloud migration with ROI modeling | Elastx · PPTX · Word |
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucRoDZ&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
