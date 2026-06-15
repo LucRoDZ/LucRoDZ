@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lucas%20Zivan-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://github.com/LucRoDZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Malt](https://img.shields.io/badge/Malt-Freelance-FC4B4B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhoMnY4eiIvPjwvc3ZnPg==)](https://www.malt.fr/)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-FC4B4B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGg[...]
 [![Location](https://img.shields.io/badge/📍-Paris%2C%20France-555?style=flat-square)](https://github.com/LucRoDZ)
 [![Status](https://img.shields.io/badge/🇯🇵-Tokyo%20Fall%202026-e63946?style=flat-square)](https://github.com/LucRoDZ)
 
@@ -21,15 +21,15 @@
 
 ---
 
-## 👋 Hey, je suis Lucas
+## 👋 Hey, I'm Lucas
 
-Ingénieur fullstack & DevOps en freelance, étudiant à **EPITA** (majeure GITM).  
-Je construis des produits web de bout en bout — du design d'API au déploiement CI/CD — avec un goût particulier pour l'IA et l'architecture scalable.
+Fullstack & DevOps engineer freelancing while studying at **EPITA** (GITM major).  
+I build end-to-end web products — from API design to CI/CD deployment — with a particular passion for AI and scalable architecture.
 
-- 🤖 J'ai développé **SKAiTE**, un chatbot IA interne utilisé par **800+ employés** chez [Asmodee](https://www.asmodee.com)
-- 🚀 Je co-fonde **EASYQ**, une startup de paiement restaurant (Next.js · Stripe · PostgreSQL)
-- 🌏 Échange universitaire à **Shibaura Institute of Technology** (Tokyo) — Septembre 2026
-- ⚡ Disponible pour des **missions freelance** (RAG, fullstack, DevOps)
+- 🤖 I developed **SKAiTE**, an internal AI chatbot used by **800+ employees** at [Asmodee](https://www.asmodee.com)
+- 🚀 Co-founding **EASYQ**, a restaurant payment startup (Next.js · Stripe · PostgreSQL)
+- 🌏 University exchange at **Shibaura Institute of Technology** (Tokyo) — September 2026
+- ⚡ Available for **freelance projects** (RAG, fullstack, DevOps)
 
 ---
 
@@ -60,22 +60,22 @@ Je construis des produits web de bout en bout — du design d'API au déploiemen
 
 ---
 
-## 🗂 Projets
+## 🗂 Projects
 
-### Professionnels
+### Professional
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **SKAiTE** | Chatbot IA interne — 800+ utilisateurs chez Asmodee | Next.js · RAG · OpenAI |
-| **EASYQ** | Startup paiement restaurant avec agent IA `ralph` | Next.js · NestJS · Stripe · PostgreSQL |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **SKAiTE** | Internal AI chatbot — 800+ users at Asmodee | Next.js · RAG · OpenAI |
+| **EASYQ** | Restaurant payment startup with `ralph` AI agent | Next.js · NestJS · Stripe · PostgreSQL |
 
-### Scolaires (EPITA)
+### Academic (EPITA)
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **TinyX / Epitweet** | Twitter distribué en microservices | Java · Quarkus · MongoDB · ElasticSearch · Neo4j · Kubernetes |
-| **AdaptIQ** | Outil IA éducatif agentic (hackathon) | Claude API · Scalingo |
-| **ELS Cloud Migration** | Migration SAE → Cloud avec ROI modeling | Elastx · PPTX · Word |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **TinyX / Epitweet** | Distributed Twitter microservices architecture | Java · Quarkus · MongoDB · ElasticSearch · Neo4j · Kubernetes |
+| **AdaptIQ** | Educational AI tool with agentic capabilities (hackathon) | Claude API · Scalingo |
+| **ELS Cloud Migration** | SAE to Cloud migration with ROI modeling | Elastx · PPTX · Word |
 
 ---
 
@@ -93,12 +93,12 @@ Je construis des produits web de bout en bout — du design d'API au déploiemen
 
 ## 📬 Contact
 
-Tu as une mission freelance ou une idée de projet ?
+Got a freelance mission or project idea?
 
-**[📧 me contacter](mailto:lucas.zivan@epita.fr)** · **[💼 Malt](https://www.malt.fr/)** · **[🔗 LinkedIn](https://www.linkedin.com/in/)**
+**[📧 Get in touch](mailto:lucas.zivan@epita.fr)** · **[💼 Malt](https://www.malt.fr/)** · **[🔗 LinkedIn](https://www.linkedin.com/in/)**
 
 ---
 
 <div align="center">
-  <sub>⚡ Construit avec TypeScript · Déployé avec Docker · Rêvé à Paris, codé partout</sub>
+  <sub>⚡ Built with TypeScript · Deployed with Docker · Dreamed in Paris, coded everywhere</sub>
 </div>
