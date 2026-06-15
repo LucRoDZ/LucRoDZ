@@ -6,7 +6,7 @@
 | |  | | | |/ __/ _ \/ __|
 | |__| |_| | (_| (_) \__ \
 |____|\___/ \___\___/|___/
-  Lucas Zivan · LucRoDZ
+      Lucas Zivan
 ```
 
 **Fullstack & DevOps Engineer · Freelance · EPITA GITM ING2**
@@ -45,7 +45,6 @@ I build end-to-end web products — from API design to CI/CD deployment — with
 ### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### AI / Data
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -74,16 +73,13 @@ I build end-to-end web products — from API design to CI/CD deployment — with
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **TinyX / Epitweet** | Distributed Twitter microservices architecture | Java · Quarkus · MongoDB · ElasticSearch · Neo4j · Kubernetes |
-| **AdaptIQ** | Educational AI tool with agentic capabilities (hackathon) | Claude API · Scalingo |
 | **ELS Cloud Migration** | SAE to Cloud migration with ROI modeling | Elastx · PPTX · Word |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucRoDZ&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucRoDZ&layout=compact&theme=github_dark&hide_border=true)
 
