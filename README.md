@@ -11,9 +11,9 @@
 
 **Fullstack & DevOps Engineer · Freelance · EPITA GITM ING2**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lucas%20Zivan-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://github.com/LucRoDZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Malt](https://img.shields.io/badge/Malt-Freelance-FC4B4B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGg[...]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lucas%20Zivan-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://lucaszivan.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/zivan-lucas-a057542a4/)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-FC4B4B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGg[]
 [![Location](https://img.shields.io/badge/📍-Paris%2C%20France-555?style=flat-square)](https://github.com/LucRoDZ)
 [![Status](https://img.shields.io/badge/🇯🇵-Tokyo%20Fall%202026-e63946?style=flat-square)](https://github.com/LucRoDZ)
 
