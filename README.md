@@ -21,15 +21,15 @@
 
 ---
 
-## 👋 Hey, I'm Lucas
+## Hey, I'm Lucas
 
 Fullstack & DevOps engineer freelancing while studying at **EPITA** (GITM major).  
 I build end-to-end web products — from API design to CI/CD deployment — with a particular passion for AI and scalable architecture.
 
-- 🤖 I developed **SKAiTE**, an internal AI chatbot used by **800+ employees** at [Asmodee](https://www.asmodee.com)
-- 🚀 Co-founding **EASYQ**, a restaurant payment startup (Next.js · Stripe · PostgreSQL)
-- 🌏 University exchange at **Shibaura Institute of Technology** (Tokyo) — September 2026
-- ⚡ Available for **freelance projects** (RAG, fullstack, DevOps)
+- I developed **SKAiTE**, an internal AI chatbot used by **800+ employees** at [Asmodee](https://www.asmodee.com)
+- Co-founding **EASYQ**, a restaurant payment startup (Next.js · Stripe · PostgreSQL)
+- University exchange at **Shibaura Institute of Technology** (Tokyo) — September 2026
+- Available for **freelance projects** (RAG, fullstack, DevOps)
 
 ---
 
@@ -100,5 +100,5 @@ Got a freelance mission or project idea?
 ---
 
 <div align="center">
-  <sub>⚡ Built with TypeScript · Deployed with Docker · Dreamed in Paris, coded everywhere</sub>
+  <sub> Built with TypeScript · Deployed with Docker · Dreamed in Paris, coded everywhere</sub>
 </div>
