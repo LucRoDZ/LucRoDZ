@@ -6,7 +6,7 @@
 | |  | | | |/ __/ _ \/ __|
 | |__| |_| | (_| (_) \__ \
 |____|\___/ \___\___/|___/
-    Lucas Zivan
+Lucas Zivan
 ```
 
 **Fullstack & DevOps Engineer · Freelance · EPITA GITM ING2**
