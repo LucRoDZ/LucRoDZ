@@ -91,10 +91,10 @@ I build end-to-end web products — from API design to CI/CD deployment — with
 
 Got a freelance mission or project idea?
 
-**[📧 Get in touch](mailto:lucas.zivan@epita.fr)** · **[💼 Malt](https://www.malt.fr/)** · **[🔗 LinkedIn](https://www.linkedin.com/in/)**
+**[📧 Get in touch](mailto:lucas.zivan@epita.fr)** · **[💼 Malt](https://www.malt.fr/profile/lucaszivan)** · **[🔗 LinkedIn](linkedin.com/in/zivan-lucas-a057542a4/)**
 
 ---
 
 <div align="center">
-  <sub> Built with TypeScript · Deployed with Docker · Dreamed in Paris, coded everywhere</sub>
+  <sub> Dreamed in Paris and Tokyo</sub>
 </div>
